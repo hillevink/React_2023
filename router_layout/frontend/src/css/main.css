@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+}
+nav a {
+  text-decoration: none;
+}
+nav ul {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3MvbWFpbi5zY3NzIiwibWFpbi5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxhQUFBO0FDQ0Y7QURDRTtFQUNFLHFCQUFBO0FDQ0o7QURFRTtFQUNFLGFBQUE7RUFDQSxTQUFBO0VBQ0EsZ0JBQUE7QUNBSiIsImZpbGUiOiJtYWluLmNzcyJ9 */
