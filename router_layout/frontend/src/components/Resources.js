@@ -1,4 +1,5 @@
 import {Link, useParams} from "react-router-dom";
+import Nav from "./Nav";
 
 const Resources = ({resources}) => {
 
@@ -8,6 +9,7 @@ const Resources = ({resources}) => {
 
   return (
     <>
+    <Nav />
       {category.map((cat) => (
         <>
           <h2><Link to={cat.url}>{cat.title}</Link></h2>
